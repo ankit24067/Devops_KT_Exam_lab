@@ -1,3 +1,2 @@
-# Students can define model parameters here
-learning_rate: TODO
-epochs: TODO
+learning_rate: 0.01
+epochs: 100
