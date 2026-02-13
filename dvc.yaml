@@ -1,5 +1,3 @@
-# This is a placeholder file.
-# Students will run `dvc init`, `dvc add data/data.csv`, and `dvc repro`.
 stages:
   train:
     cmd: python ml/train.py
